@@ -1,0 +1,7 @@
+theme: minima
+
+defaults:
+  - scope:
+      path: "chapters"
+    values:
+      layout: page
