@@ -1,3 +1,6 @@
+---
+title: Notes on Safety Engineering for Software Developers
+---
 [Github](https://github.com/maxboro/safety-in-software-engineering/)
 
 ## Table of Contents
