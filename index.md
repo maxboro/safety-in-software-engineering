@@ -1,7 +1,8 @@
 # Notes on Safety Engineering for Software Developers
+[Github](https://github.com/maxboro/safety-in-software-engineering/
 
 ## Table of Contents
-- [Introduction to software safety](/chapters/introduction/)
+- [Introduction to software safety](https://maxboro.github.io/safety-in-software-engineering/chapters/introduction/)
 - [Core concepts and terminology](/chapters/concepts/)
 - [Failure modes and fault classification](/chapters/failure-modes/)
 - [Hazard identification techniques](/chapters/identification/)
