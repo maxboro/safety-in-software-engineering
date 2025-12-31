@@ -18,7 +18,7 @@
 - [Standards and certification landscape](chapters/15.%20Standards%20and%20Certification%20Landscape.md)
 
 ## Disclaimer
-These notes are mostly LLM-generated or summarized by LLMs. I am no expert in this area. Treat it with a grain of salt
+These notes are mostly LLM-generated or summarized by LLMs. I am no expert in this area. Treat it with a grain of salt.
 
 ## Credits
-I mostly AI generated this note for educational purposes using ChatGPT models and Deep Research functionality.
+I mostly AI generated this note for educational purposes using ChatGPT models and Deep Research functionality. Some visualizations (with related watermark) are generated using NotebookLM.
